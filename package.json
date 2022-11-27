@@ -1,4 +1,7 @@
 {
+  "dependencies": {
+    "@nestjs/mapped-types": "*"
+  },
   "name": "workshop-starter",
   "version": "1.0.0",
   "description": "",
